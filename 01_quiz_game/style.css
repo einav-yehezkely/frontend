@@ -72,7 +72,7 @@ body{
 }
 
 .answer-btn{
-    background-color: #ffa176;
+    background-color: #ffdac8;
     color: black;
     border: 2px solid #ffeece;
     border-radius: 10px;
@@ -88,15 +88,15 @@ body{
 }
 
 .answer-btn.correct{
-    background-color: green;
+    background-color: rgb(156, 255, 156);
     border-color: greenyellow;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 
 .answer-btn.incorrect{
-    background-color: red;
+    background-color: rgb(255, 101, 101);
     border-color: pink;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 
 .progress-bar{
